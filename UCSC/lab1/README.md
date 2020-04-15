@@ -1,4 +1,3 @@
 # CSE Lab 1 Testbenches
 
-
-TEST THE README FILE
+test the LAB 1
